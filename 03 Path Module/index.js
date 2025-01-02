@@ -12,8 +12,6 @@ import path from "path";
 // console.log(path.join("c:", "masu", "projects", "redux-toolkit", ".."));
 
 // console.log(path.normalize("c:\\nodejs\\\ZeroToHero\\\store\\index\\"));
-
-// path.parse Method
 // console.log(path.parse("c:\\nodejs\\index.js").dir);
 // console.log(path.parse("c:\\nodejs\\index.js"));
 console.log(path.parse("c:\\nodejs\\index.js").base);
